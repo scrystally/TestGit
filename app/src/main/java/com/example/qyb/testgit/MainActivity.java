@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     public static String TAG="TestGit";
+    public static String TAG3="TestGit3";
 
 
     @Override
