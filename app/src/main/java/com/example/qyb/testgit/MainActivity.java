@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
     public static String TAG3="TestGit3";
     private static String localTag="TestLocalTag";
     public static String remoteTag="TestRemoteTag";
+    public static String tempTag="TestTempTag";
 
 
     @Override
