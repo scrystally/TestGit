@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     private static String localTag="TestLocalTag";
     public static String remoteTag="TestRemoteTag";
     public static String tempTag="TestTempTag";
+    private static String otherTag="otherTag";
 
 
     @Override
