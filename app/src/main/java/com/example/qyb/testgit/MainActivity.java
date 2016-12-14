@@ -8,8 +8,6 @@ public class MainActivity extends AppCompatActivity {
     public static String TAG="TestGit";
     public static String TAG2="TestGit2";
     public static String TAG3="TestGit3";
-    public static String TAG4="TestGit4";
-    public static String TAG5="TestGit5";
 
 
     @Override
